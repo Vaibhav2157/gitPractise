@@ -1,2 +1,4 @@
-i am feature branch.
-i am doing some changes from master branch.
+
+i am feature branch
+i am working from feature branch.
+
